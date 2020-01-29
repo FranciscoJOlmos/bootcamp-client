@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.css' // once we import this here, it can be read anywhere
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
